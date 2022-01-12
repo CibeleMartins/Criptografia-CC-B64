@@ -29,7 +29,5 @@
 <br>
 <img src="./img/cCB64.gif">
 <br>
-<br>
-<br>
 <p><strong>Desenvolvido por <a target= "_blank" href="https://www.linkedin.com/in/cibele-martins-85b910169/">Cibele Martins</a>.</strong></p>
 

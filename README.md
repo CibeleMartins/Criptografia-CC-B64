@@ -13,3 +13,14 @@
   <li>Um botão para acionar uma das opções escolhidas.</li>
   <li>E mais dois inputs do tipo texto, onde no primeiro o usuário deve inserir a mensagem que deseja codificar ou decodificar, e no segundo o resultado do método e opção escolhida.</li> 
 </ul>
+
+
+<h2>Documentações e Referências</h2>
+
+<ul>
+  <li><a href="https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar" target="_blank">Cifra de César</a></li>
+  <li><a href="https://pt.wikipedia.org/wiki/Base64" target= "_blank">Base64</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction" target= "_blank">DOM</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events" target= "_blank">Eventos</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener" target= "_blank">.addEventListener()</a></li>
+</ul>

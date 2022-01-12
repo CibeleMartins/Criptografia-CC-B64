@@ -1,4 +1,4 @@
-<h1>Projeto Mensagem Oculta</h1>
+<h1>Projeto Sprint: Mensagem Oculta</h1>
 
 <p> Neste projeto foram utilizadas as linguagens HTML, CSS e JavaScript para desenvolver uma aplicação que funciona como codificador e decodificador de Cifra de César e Base64. Existe um input no qual o usuário da entrada escolhendo um dos métodos, sendo codificação ou decodificação, e mais dois inputs para estas duas últimas opções, e a partir do click no botão da opção escolhida, toda e qualquer mensagem inserida no input de texto é codificada ou decodificada no último input de texto de acordo com as regras do método escolhido.</p>
 

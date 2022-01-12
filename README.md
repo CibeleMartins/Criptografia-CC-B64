@@ -24,3 +24,7 @@
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events" target= "_blank">Eventos</a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener" target= "_blank">.addEventListener()</a></li>
 </ul>
+
+<h2>GitHubs Pages é logo ali...</h2>
+<br>
+<img src="./img/cCB64.gif">

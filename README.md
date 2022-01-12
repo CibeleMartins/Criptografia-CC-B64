@@ -28,3 +28,8 @@
 <h2>GitHubs Pages é logo ali...</h2>
 <br>
 <img src="./img/cCB64.gif">
+
+
+
+<p><strong>Desenvolvido por<a target= "_blank" href="https://www.linkedin.com/in/cibele-martins-85b910169/">Cibele Martins</a></strong></p>
+
